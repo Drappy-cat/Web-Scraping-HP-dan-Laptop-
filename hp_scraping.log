@@ -1,0 +1,216 @@
+2025-06-20 16:11:51,024 - INFO - Mengambil URL dari Halaman 1
+2025-06-20 16:12:09,307 - INFO - Mengambil URL dari Halaman 2
+2025-06-20 16:12:35,348 - INFO - Mengambil URL dari Halaman 3
+2025-06-20 16:12:57,856 - INFO - Mengambil URL dari Halaman 4
+2025-06-20 16:13:19,143 - INFO - Mengambil URL dari Halaman 5
+2025-06-20 16:13:26,544 - INFO - Total URL produk yang berhasil dikumpulkan: 75
+2025-06-20 16:13:26,546 - INFO - Memproses produk 1/75: https://www.hp.com/id-id/shop/catalog/product/view/id/9812/s/hp-laptop-14s-dq5227tu-b29zdpa/category/6/
+2025-06-20 16:13:53,962 - ERROR - Timeout saat memuat halaman detail: https://www.hp.com/id-id/shop/catalog/product/view/id/9812/s/hp-laptop-14s-dq5227tu-b29zdpa/category/6/
+2025-06-20 16:13:57,001 - INFO - Memproses produk 2/75: https://www.hp.com/id-id/shop/hp-omnibook-ultra-flip-laptop-14-fh0334tu-b2cq2pa.html
+2025-06-20 16:14:31,506 - ERROR - Terjadi error tak terduga di https://www.hp.com/id-id/shop/hp-omnibook-ultra-flip-laptop-14-fh0334tu-b2cq2pa.html: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.product-add-form [data-th='SKU']"}
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7ee7fcda5+78885]
+	GetHandleVerifier [0x0x7ff7ee7fce00+78976]
+	(No symbol) [0x0x7ff7ee5b9bca]
+	(No symbol) [0x0x7ff7ee610766]
+	(No symbol) [0x0x7ff7ee610a1c]
+	(No symbol) [0x0x7ff7ee664467]
+	(No symbol) [0x0x7ff7ee638bcf]
+	(No symbol) [0x0x7ff7ee66122f]
+	(No symbol) [0x0x7ff7ee638963]
+	(No symbol) [0x0x7ff7ee6016b1]
+	(No symbol) [0x0x7ff7ee602443]
+	GetHandleVerifier [0x0x7ff7eead4eed+3061101]
+	GetHandleVerifier [0x0x7ff7eeacf33d+3037629]
+	GetHandleVerifier [0x0x7ff7eeaee592+3165202]
+	GetHandleVerifier [0x0x7ff7ee81730e+186766]
+	GetHandleVerifier [0x0x7ff7ee81eb3f+217535]
+	GetHandleVerifier [0x0x7ff7ee8059b4+114740]
+	GetHandleVerifier [0x0x7ff7ee805b69+115177]
+	GetHandleVerifier [0x0x7ff7ee7ec368+10728]
+	BaseThreadInitThunk [0x0x7ff89f97e8d7+23]
+	RtlUserThreadStart [0x0x7ff8a029c34c+44]
+
+2025-06-20 16:14:34,540 - INFO - Memproses produk 3/75: https://www.hp.com/id-id/shop/hp-pavilion-aero-laptop-13-bg0111au-a0dh2pa.html
+2025-06-20 16:15:04,782 - ERROR - Terjadi error tak terduga di https://www.hp.com/id-id/shop/hp-pavilion-aero-laptop-13-bg0111au-a0dh2pa.html: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.product-add-form [data-th='SKU']"}
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7ee7fcda5+78885]
+	GetHandleVerifier [0x0x7ff7ee7fce00+78976]
+	(No symbol) [0x0x7ff7ee5b9bca]
+	(No symbol) [0x0x7ff7ee610766]
+	(No symbol) [0x0x7ff7ee610a1c]
+	(No symbol) [0x0x7ff7ee664467]
+	(No symbol) [0x0x7ff7ee638bcf]
+	(No symbol) [0x0x7ff7ee66122f]
+	(No symbol) [0x0x7ff7ee638963]
+	(No symbol) [0x0x7ff7ee6016b1]
+	(No symbol) [0x0x7ff7ee602443]
+	GetHandleVerifier [0x0x7ff7eead4eed+3061101]
+	GetHandleVerifier [0x0x7ff7eeacf33d+3037629]
+	GetHandleVerifier [0x0x7ff7eeaee592+3165202]
+	GetHandleVerifier [0x0x7ff7ee81730e+186766]
+	GetHandleVerifier [0x0x7ff7ee81eb3f+217535]
+	GetHandleVerifier [0x0x7ff7ee8059b4+114740]
+	GetHandleVerifier [0x0x7ff7ee805b69+115177]
+	GetHandleVerifier [0x0x7ff7ee7ec368+10728]
+	BaseThreadInitThunk [0x0x7ff89f97e8d7+23]
+	RtlUserThreadStart [0x0x7ff8a029c34c+44]
+
+2025-06-20 16:15:07,783 - INFO - Memproses produk 4/75: https://www.hp.com/id-id/shop/victus-gaming-laptop-15-fb2557ax-a4um4pa.html
+2025-06-20 16:15:23,847 - ERROR - Terjadi error tak terduga di https://www.hp.com/id-id/shop/victus-gaming-laptop-15-fb2557ax-a4um4pa.html: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.product-add-form [data-th='SKU']"}
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7ee7fcda5+78885]
+	GetHandleVerifier [0x0x7ff7ee7fce00+78976]
+	(No symbol) [0x0x7ff7ee5b9bca]
+	(No symbol) [0x0x7ff7ee610766]
+	(No symbol) [0x0x7ff7ee610a1c]
+	(No symbol) [0x0x7ff7ee664467]
+	(No symbol) [0x0x7ff7ee638bcf]
+	(No symbol) [0x0x7ff7ee66122f]
+	(No symbol) [0x0x7ff7ee638963]
+	(No symbol) [0x0x7ff7ee6016b1]
+	(No symbol) [0x0x7ff7ee602443]
+	GetHandleVerifier [0x0x7ff7eead4eed+3061101]
+	GetHandleVerifier [0x0x7ff7eeacf33d+3037629]
+	GetHandleVerifier [0x0x7ff7eeaee592+3165202]
+	GetHandleVerifier [0x0x7ff7ee81730e+186766]
+	GetHandleVerifier [0x0x7ff7ee81eb3f+217535]
+	GetHandleVerifier [0x0x7ff7ee8059b4+114740]
+	GetHandleVerifier [0x0x7ff7ee805b69+115177]
+	GetHandleVerifier [0x0x7ff7ee7ec368+10728]
+	BaseThreadInitThunk [0x0x7ff89f97e8d7+23]
+	RtlUserThreadStart [0x0x7ff8a029c34c+44]
+
+2025-06-20 16:15:26,849 - INFO - Memproses produk 5/75: https://www.hp.com/id-id/shop/hp-laptop-14-em0333au-aa3v8pa-1.html
+2025-06-20 16:15:43,631 - ERROR - Terjadi error tak terduga di https://www.hp.com/id-id/shop/hp-laptop-14-em0333au-aa3v8pa-1.html: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.product-add-form [data-th='SKU']"}
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7ee7fcda5+78885]
+	GetHandleVerifier [0x0x7ff7ee7fce00+78976]
+	(No symbol) [0x0x7ff7ee5b9bca]
+	(No symbol) [0x0x7ff7ee610766]
+	(No symbol) [0x0x7ff7ee610a1c]
+	(No symbol) [0x0x7ff7ee664467]
+	(No symbol) [0x0x7ff7ee638bcf]
+	(No symbol) [0x0x7ff7ee66122f]
+	(No symbol) [0x0x7ff7ee638963]
+	(No symbol) [0x0x7ff7ee6016b1]
+	(No symbol) [0x0x7ff7ee602443]
+	GetHandleVerifier [0x0x7ff7eead4eed+3061101]
+	GetHandleVerifier [0x0x7ff7eeacf33d+3037629]
+	GetHandleVerifier [0x0x7ff7eeaee592+3165202]
+	GetHandleVerifier [0x0x7ff7ee81730e+186766]
+	GetHandleVerifier [0x0x7ff7ee81eb3f+217535]
+	GetHandleVerifier [0x0x7ff7ee8059b4+114740]
+	GetHandleVerifier [0x0x7ff7ee805b69+115177]
+	GetHandleVerifier [0x0x7ff7ee7ec368+10728]
+	BaseThreadInitThunk [0x0x7ff89f97e8d7+23]
+	RtlUserThreadStart [0x0x7ff8a029c34c+44]
+
+2025-06-20 16:15:46,635 - INFO - Memproses produk 6/75: https://www.hp.com/id-id/shop/victus-gaming-laptop-16-r0888tx-aa4b1pa.html
+2025-06-20 16:16:01,942 - ERROR - Terjadi error tak terduga di https://www.hp.com/id-id/shop/victus-gaming-laptop-16-r0888tx-aa4b1pa.html: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.product-add-form [data-th='SKU']"}
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7ee7fcda5+78885]
+	GetHandleVerifier [0x0x7ff7ee7fce00+78976]
+	(No symbol) [0x0x7ff7ee5b9bca]
+	(No symbol) [0x0x7ff7ee610766]
+	(No symbol) [0x0x7ff7ee610a1c]
+	(No symbol) [0x0x7ff7ee664467]
+	(No symbol) [0x0x7ff7ee638bcf]
+	(No symbol) [0x0x7ff7ee66122f]
+	(No symbol) [0x0x7ff7ee638963]
+	(No symbol) [0x0x7ff7ee6016b1]
+	(No symbol) [0x0x7ff7ee602443]
+	GetHandleVerifier [0x0x7ff7eead4eed+3061101]
+	GetHandleVerifier [0x0x7ff7eeacf33d+3037629]
+	GetHandleVerifier [0x0x7ff7eeaee592+3165202]
+	GetHandleVerifier [0x0x7ff7ee81730e+186766]
+	GetHandleVerifier [0x0x7ff7ee81eb3f+217535]
+	GetHandleVerifier [0x0x7ff7ee8059b4+114740]
+	GetHandleVerifier [0x0x7ff7ee805b69+115177]
+	GetHandleVerifier [0x0x7ff7ee7ec368+10728]
+	BaseThreadInitThunk [0x0x7ff89f97e8d7+23]
+	RtlUserThreadStart [0x0x7ff8a029c34c+44]
+
+2025-06-20 16:16:04,945 - INFO - Memproses produk 7/75: https://www.hp.com/id-id/shop/victus-gaming-laptop-15-fb2666ax-a4ty4pa-1.html
+2025-06-20 16:16:23,106 - ERROR - Terjadi error tak terduga di https://www.hp.com/id-id/shop/victus-gaming-laptop-15-fb2666ax-a4ty4pa-1.html: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.product-add-form [data-th='SKU']"}
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7ee7fcda5+78885]
+	GetHandleVerifier [0x0x7ff7ee7fce00+78976]
+	(No symbol) [0x0x7ff7ee5b9bca]
+	(No symbol) [0x0x7ff7ee610766]
+	(No symbol) [0x0x7ff7ee610a1c]
+	(No symbol) [0x0x7ff7ee664467]
+	(No symbol) [0x0x7ff7ee638bcf]
+	(No symbol) [0x0x7ff7ee66122f]
+	(No symbol) [0x0x7ff7ee638963]
+	(No symbol) [0x0x7ff7ee6016b1]
+	(No symbol) [0x0x7ff7ee602443]
+	GetHandleVerifier [0x0x7ff7eead4eed+3061101]
+	GetHandleVerifier [0x0x7ff7eeacf33d+3037629]
+	GetHandleVerifier [0x0x7ff7eeaee592+3165202]
+	GetHandleVerifier [0x0x7ff7ee81730e+186766]
+	GetHandleVerifier [0x0x7ff7ee81eb3f+217535]
+	GetHandleVerifier [0x0x7ff7ee8059b4+114740]
+	GetHandleVerifier [0x0x7ff7ee805b69+115177]
+	GetHandleVerifier [0x0x7ff7ee7ec368+10728]
+	BaseThreadInitThunk [0x0x7ff89f97e8d7+23]
+	RtlUserThreadStart [0x0x7ff8a029c34c+44]
+
+2025-06-20 16:16:26,107 - INFO - Memproses produk 8/75: https://www.hp.com/id-id/shop/hp-envy-x360-2-in-1-laptop-14-fc0888tu-9w3g5pa-2.html
+2025-06-20 16:16:41,615 - ERROR - Terjadi error tak terduga di https://www.hp.com/id-id/shop/hp-envy-x360-2-in-1-laptop-14-fc0888tu-9w3g5pa-2.html: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.product-add-form [data-th='SKU']"}
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7ee7fcda5+78885]
+	GetHandleVerifier [0x0x7ff7ee7fce00+78976]
+	(No symbol) [0x0x7ff7ee5b9bca]
+	(No symbol) [0x0x7ff7ee610766]
+	(No symbol) [0x0x7ff7ee610a1c]
+	(No symbol) [0x0x7ff7ee664467]
+	(No symbol) [0x0x7ff7ee638bcf]
+	(No symbol) [0x0x7ff7ee66122f]
+	(No symbol) [0x0x7ff7ee638963]
+	(No symbol) [0x0x7ff7ee6016b1]
+	(No symbol) [0x0x7ff7ee602443]
+	GetHandleVerifier [0x0x7ff7eead4eed+3061101]
+	GetHandleVerifier [0x0x7ff7eeacf33d+3037629]
+	GetHandleVerifier [0x0x7ff7eeaee592+3165202]
+	GetHandleVerifier [0x0x7ff7ee81730e+186766]
+	GetHandleVerifier [0x0x7ff7ee81eb3f+217535]
+	GetHandleVerifier [0x0x7ff7ee8059b4+114740]
+	GetHandleVerifier [0x0x7ff7ee805b69+115177]
+	GetHandleVerifier [0x0x7ff7ee7ec368+10728]
+	BaseThreadInitThunk [0x0x7ff89f97e8d7+23]
+	RtlUserThreadStart [0x0x7ff8a029c34c+44]
+
+2025-06-20 16:16:44,616 - INFO - Memproses produk 9/75: https://www.hp.com/id-id/shop/hp-pavilion-aero-laptop-13-bg0222au-a0dh3pa-1.html
+2025-06-20 16:17:09,600 - ERROR - Terjadi error tak terduga di https://www.hp.com/id-id/shop/hp-pavilion-aero-laptop-13-bg0222au-a0dh3pa-1.html: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.product-add-form [data-th='SKU']"}
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7ee7fcda5+78885]
+	GetHandleVerifier [0x0x7ff7ee7fce00+78976]
+	(No symbol) [0x0x7ff7ee5b9bca]
+	(No symbol) [0x0x7ff7ee610766]
+	(No symbol) [0x0x7ff7ee610a1c]
+	(No symbol) [0x0x7ff7ee664467]
+	(No symbol) [0x0x7ff7ee638bcf]
+	(No symbol) [0x0x7ff7ee66122f]
+	(No symbol) [0x0x7ff7ee638963]
+	(No symbol) [0x0x7ff7ee6016b1]
+	(No symbol) [0x0x7ff7ee602443]
+	GetHandleVerifier [0x0x7ff7eead4eed+3061101]
+	GetHandleVerifier [0x0x7ff7eeacf33d+3037629]
+	GetHandleVerifier [0x0x7ff7eeaee592+3165202]
+	GetHandleVerifier [0x0x7ff7ee81730e+186766]
+	GetHandleVerifier [0x0x7ff7ee81eb3f+217535]
+	GetHandleVerifier [0x0x7ff7ee8059b4+114740]
+	GetHandleVerifier [0x0x7ff7ee805b69+115177]
+	GetHandleVerifier [0x0x7ff7ee7ec368+10728]
+	BaseThreadInitThunk [0x0x7ff89f97e8d7+23]
+	RtlUserThreadStart [0x0x7ff8a029c34c+44]
+
